@@ -1,5 +1,5 @@
 {
-  "name": "static-site",
+  "name": "potential-enigma",
   "version": "1.0.0",
   "description": "To create a README file",
   "main": "index.js",
@@ -7,10 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Onyekachi Nwosu",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
-  "devDependencies": {},
-  "keywords": []
+  "license": "ISC"
 }
