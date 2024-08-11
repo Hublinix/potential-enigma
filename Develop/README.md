@@ -1,4 +1,4 @@
-# README.md
+# Readme generator
 ## Table Of Contents
 
 * [Description](#description)
@@ -6,25 +6,25 @@
 * [Usage Information](#usage)
 * [Contribution Guideline](#contribution)
 * [Test Instruction](#test)
-* [License](#lisence)
+* [License](#license)
 * [Questions](#questions)
 
 ## Description
-This is a place to devlop README files
+CLI app
 
 ## Installation
 npm i
 
 ##Usage
-For installing README files
+Free
 
-##Contribution Guidline
-Licenses
+##Contribution 
+This project doesn't accept any contribution at this moment
 
-##Test Instruction
-initilize README
+##Test 
+Manual testing
 
-##Lisence
+##License
 
   ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)}
 
@@ -34,5 +34,7 @@ initilize README
   
 
 ##Questions
-Feel free to reach me at Kachinwosu1999@gmail.com
-Check out my other projects at Kachinwosu1999@gmail.com
+Feel free to reach me at test
+
+Check out my other projects at
+[github Profile] (https://github.com/test)
