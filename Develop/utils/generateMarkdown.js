@@ -33,7 +33,7 @@ function generateMarkdown(data) {
 * [Usage Information](#usage)
 * [Contribution Guideline](#contribution)
 * [Test Instruction](#test)
-* [License](#lisence)
+* [License](#license)
 * [Questions](#questions)
 
 ## Description
@@ -45,18 +45,21 @@ ${data.Installation}
 ##Usage
 ${data.Info}
 
-##Contribution Guidline
+##Contribution 
 ${data.Guidlines}
 
-##Test Instruction
+##Test 
 ${data.Instructions}
 
-##Lisence
+##License
 ${renderLicenseSection(data.license)}
 
 ##Questions
 Feel free to reach me at ${data.Address}
-Check out my other projects at ${data.Address}`;
+
+Check out my other projects at
+[github Profile] (https://github.com/${data.Address})`;
+
 }
 
 module.exports = generateMarkdown;
