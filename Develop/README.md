@@ -1,4 +1,4 @@
-# undefined
+# README.md
 ## Table Of Contents
 
 * [Description](#description)
@@ -10,28 +10,29 @@
 * [Questions](#questions)
 
 ## Description
-make 
+This is a place to devlop README files
 
 ## Installation
 npm i
 
 ##Usage
-s
+For installing README files
 
 ##Contribution Guidline
-hrfn
+Licenses
 
 ##Test Instruction
-sd
+initilize README
 
 ##Lisence
 
-  ![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)}
+  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)}
 
   
- [License Overview]( https://choosealicense.com/licenses/APACHE 2.0/)
+ [License Overview]( https://choosealicense.com/licenses/ISC/)
  
   
 
 ##Questions
-undefined
+Feel free to reach me at Kachinwosu1999@gmail.com
+Check out my other projects at Kachinwosu1999@gmail.com
