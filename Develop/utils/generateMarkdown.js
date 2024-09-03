@@ -1,14 +1,14 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  return `![GitHub license](https://img.shields.io/badge/license-${license.replace(' ', '_')}-blue.svg)}`
+  return `![GitHub license](https://img.shields.io/badge/license-${license.replace(' ', '_')}-blue.svg)`
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
  return `
- [License Overview]( https://choosealicense.com/licenses/${license}/)
+ [License Overview](https://choosealicense.com/licenses/${license}/)
  `
 
 }
@@ -42,23 +42,26 @@ ${data.Description}
 ## Installation
 ${data.Installation}
 
-##Usage
+## Usage
+
 ${data.Info}
 
-##Contribution 
+## Contribution 
+
 ${data.Guidlines}
 
-##Test 
+## Test 
+
 ${data.Instructions}
 
-##License
+## License
 ${renderLicenseSection(data.license)}
 
-##Questions
+## Questions
 Feel free to reach me at ${data.Address}
 
 Check out my other projects at
-[github Profile] (https://github.com/${data.Address})`;
+[github Profile](https://github.com/${data.Address})`;
 
 }
 

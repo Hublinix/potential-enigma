@@ -1,4 +1,4 @@
-# Readme generator
+# README
 ## Table Of Contents
 
 * [Description](#description)
@@ -10,31 +10,34 @@
 * [Questions](#questions)
 
 ## Description
-CLI app
+How to generate a README
 
 ## Installation
 npm i
 
-##Usage
-Free
+## Usage
 
-##Contribution 
-This project doesn't accept any contribution at this moment
+To make guidlines
 
-##Test 
-Manual testing
+## Contribution 
 
-##License
+To be informative
 
-  ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)}
+## Test 
+
+install npm
+
+## License
+
+  ![GitHub license](https://img.shields.io/badge/license-none-blue.svg)
 
   
- [License Overview]( https://choosealicense.com/licenses/ISC/)
+ [License Overview]( https://choosealicense.com/licenses/none/)
  
   
 
-##Questions
-Feel free to reach me at test
+## Questions
+Feel free to reach me at Kachinwosu199@gmail.com
 
 Check out my other projects at
-[github Profile] (https://github.com/test)
+[github Profile](https://github.com/Kachinwosu199@gmail.com)
